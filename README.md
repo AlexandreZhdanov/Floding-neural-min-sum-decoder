@@ -10,7 +10,7 @@ https://github.com/lorenlugosch/neural-min-sum-decoding
 Логическая структура: Статья в папке Documentation исходники в папке BCH_63_36
 
 ### Компиляция:
-Выполнить все предписания из XRT_compile_run_profiling.md
+
 ```bash
 g++ -g2 ndpc.cpp alist.c queue.c interleaver.c wgn.c
 ```
